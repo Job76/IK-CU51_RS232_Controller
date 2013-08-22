@@ -3,7 +3,7 @@
  Started              2013-05-21
  Updated              2013-05-28
  Author               Johan Broström
- E-Mail               johan.brostrom@inspektionssystem.se
+ E-Mail               johan.brostrom(at)inspektionssystem.se
  Company              InspektionsSystem AB
  Homepage             www.inspektionssystem.eu
  Comments             Software for Arduino Uno, with MAX202, on custom shield, to control camera
